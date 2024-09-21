@@ -5,7 +5,7 @@ Your plugin should contain a `manifest.json` file that supplies key information 
 ```ts
 {
 	// The human-readable name of your plugin. Required
-	Name: string, // Required
+	Name: string,
 	// The user-facing author string (e.g. "ninjadev64"). Required
 	Author: string,
 	// The version of your plugin found in this directory. Required
